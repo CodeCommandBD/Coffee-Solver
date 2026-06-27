@@ -1,0 +1,44 @@
+// প্রশ্ন: কিভাবে একটি নির্দিষ্ট সর্বনিম্ন এবং সর্বোচ্চ সংখ্যার মাঝে একটি র্যান্ডম (random) সংখ্যা তৈরি করা যায়?
+
+// Question: How to generate a random number between a specific minimum and maximum number?
+
+
+
+
+// প্রশ্ন: কিভাবে স্টুডেন্টদের নামের একটি অ্যারে (Array) অ্যালফাবেটিক্যালি (Alphabetically) বা বর্ণানুক্রমিকভাবে সাজানো (Sort) যায়?
+
+// Question: How to sort an array of student names alphabetically?
+
+
+
+
+// প্রশ্ন: কিভাবে স্টুডেন্টদের রোল নাম্বারের একটি অ্যারে (Array) ছোট থেকে বড় ক্রমানুসারে (Ascending order) সাজানো (Sort) যায়?
+
+// Question: How to sort an array of student roll numbers in ascending order?
+
+
+
+
+
+// প্রশ্ন: কিভাবে নির্ণয় করা যায় যে একটি নির্দিষ্ট সাল লিপ ইয়ার (Leap year) কিনা?
+
+// Question: How to determine whether a given year is a leap year or not?
+
+
+
+
+// প্রশ্ন: কিভাবে একটি স্ট্রিং (String) থেকে শুধুমাত্র ভাওয়েল (Vowel) গুলো খুঁজে বের করা যায়?
+
+// Question: How to find or extract only the vowels from a given string?
+
+
+
+
+// প্রশ্ন: কিভাবে একটি সংখ্যার অ্যারে (Array) থেকে জোড় (Even) এবং বেজোড় (Odd) সংখ্যাগুলোকে আলাদা করা যায়?
+
+// Question: How to separate even and odd numbers from an array of numbers?
+
+
+
+
+
