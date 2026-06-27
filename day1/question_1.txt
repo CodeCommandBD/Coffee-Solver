@@ -1,44 +1,29 @@
-// প্রশ্ন: কিভাবে একটি নির্দিষ্ট সর্বনিম্ন এবং সর্বোচ্চ সংখ্যার মাঝে একটি র্যান্ডম (random) সংখ্যা তৈরি করা যায়?
+// প্রশ্ন ১: কিভাবে একটি নির্দিষ্ট সর্বনিম্ন এবং সর্বোচ্চ সংখ্যার মাঝে একটি র্যান্ডম (random) সংখ্যা তৈরি করা যায়?
+// Question 1: How to generate a random number between a specific minimum and maximum number?
 
-// Question: How to generate a random number between a specific minimum and maximum number?
+// প্রশ্ন ২: কিভাবে স্টুডেন্টদের নামের একটি অ্যারে (Array) অ্যালফাবেটিক্যালি (Alphabetically) বা বর্ণানুক্রমিকভাবে সাজানো (Sort) যায়?
+// Question 2: How to sort an array of student names alphabetically?
 
+// প্রশ্ন ৩: কিভাবে স্টুডেন্টদের রোল নাম্বারের একটি অ্যারে (Array) ছোট থেকে বড় ক্রমানুসারে (Ascending order) সাজানো (Sort) যায়?
+// Question 3: How to sort an array of student roll numbers in ascending order?
 
+// প্রশ্ন ৪: কিভাবে নির্ণয় করা যায় যে একটি নির্দিষ্ট সাল লিপ ইয়ার (Leap year) কিনা?
+// Question 4: How to determine whether a given year is a leap year or not?
 
+// প্রশ্ন ৫: কিভাবে একটি স্ট্রিং (String) থেকে শুধুমাত্র ভাওয়েল (Vowel) গুলো খুঁজে বের করা যায়?
+// Question 5: How to find or extract only the vowels from a given string?
 
-// প্রশ্ন: কিভাবে স্টুডেন্টদের নামের একটি অ্যারে (Array) অ্যালফাবেটিক্যালি (Alphabetically) বা বর্ণানুক্রমিকভাবে সাজানো (Sort) যায়?
+// প্রশ্ন ৬: কিভাবে একটি সংখ্যার অ্যারে (Array) থেকে জোড় (Even) এবং বেজোড় (Odd) সংখ্যাগুলোকে আলাদা করা যায়?
+// Question 6: How to separate even and odd numbers from an array of numbers?
 
-// Question: How to sort an array of student names alphabetically?
+// প্রশ্ন ৭: কিভাবে একটি সংখ্যার অ্যারে (Array) থেকে সবচেয়ে বড় সংখ্যা (Max number) বের করা যায়?
+// Question 7: How to find the maximum number from an array of numbers?
 
+// প্রশ্ন ৮: কিভাবে একটি অ্যারের সবগুলো সংখ্যার যোগফল (Sum) বের করা যায়?
+// Question 8: How to calculate the sum of all numbers in an array?
 
+// প্রশ্ন ৯: কিভাবে একটি স্ট্রিং (String) কে সম্পূর্ণ উল্টে (Reverse) দেওয়া যায়?
+// Question 9: How to reverse a string?
 
-
-// প্রশ্ন: কিভাবে স্টুডেন্টদের রোল নাম্বারের একটি অ্যারে (Array) ছোট থেকে বড় ক্রমানুসারে (Ascending order) সাজানো (Sort) যায়?
-
-// Question: How to sort an array of student roll numbers in ascending order?
-
-
-
-
-
-// প্রশ্ন: কিভাবে নির্ণয় করা যায় যে একটি নির্দিষ্ট সাল লিপ ইয়ার (Leap year) কিনা?
-
-// Question: How to determine whether a given year is a leap year or not?
-
-
-
-
-// প্রশ্ন: কিভাবে একটি স্ট্রিং (String) থেকে শুধুমাত্র ভাওয়েল (Vowel) গুলো খুঁজে বের করা যায়?
-
-// Question: How to find or extract only the vowels from a given string?
-
-
-
-
-// প্রশ্ন: কিভাবে একটি সংখ্যার অ্যারে (Array) থেকে জোড় (Even) এবং বেজোড় (Odd) সংখ্যাগুলোকে আলাদা করা যায়?
-
-// Question: How to separate even and odd numbers from an array of numbers?
-
-
-
-
-
+// প্রশ্ন ১০: কিভাবে একটি অ্যারে থেকে ডুপ্লিকেট (Duplicate) আইটেমগুলো বাদ দিয়ে শুধুমাত্র ইউনিক (Unique) আইটেমগুলো রাখা যায়?
+// Question 10: How to remove duplicate items from an array and keep only the unique items?
