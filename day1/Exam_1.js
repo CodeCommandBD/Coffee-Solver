@@ -86,7 +86,6 @@
 // function getVowel(pick){
 
 //     let StringSplits = pick.split('')
-//     console.log(StringSplits);
     
 
 //     StringSplits.forEach(function(value){
@@ -124,3 +123,5 @@
 //     }
 
 // })
+
+
